@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "Il piccolo mondo di Ila",
+  "short_name": "Ila",
+  "description": "Il piccolo mondo di Ilaria: un cucciolo, una casetta e tante passeggiate.",
+  "lang": "it",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#E9DDF7",
+  "theme_color": "#E9DDF7",
+  "categories": ["games"],
+  "icons": [
+    { "src": "./assets/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./assets/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "./assets/icons/maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "./assets/icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "./assets/icons/monochrome-512.png", "sizes": "512x512", "type": "image/png", "purpose": "monochrome" }
+  ],
+  "screenshots": [
+    { "src": "./assets/splash/screenshot-narrow-1080x1920.png", "sizes": "1080x1920", "type": "image/png", "form_factor": "narrow", "label": "Ilaria e il cucciolo in paese, sulla console Ilaboy" },
+    { "src": "./assets/splash/screenshot-wide-1920x1080.png", "sizes": "1920x1080", "type": "image/png", "form_factor": "wide", "label": "Il giardino segreto a schermo intero" }
+  ]
+}
